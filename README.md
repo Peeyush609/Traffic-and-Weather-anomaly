@@ -64,4 +64,18 @@ To view them:
 The notebook contains:
 - Model outputs  
 - Graphs and plots  
-- Intermediate processing results  
+- Intermediate processing results
+
+## 📂 Dataset
+The dataset used in this project is hosted on Google Drive due to its large size.
+
+👉 **Download Dataset:** https://drive.google.com/drive/folders/18OUhpzdWs8-Cp22xGHZvHixKP74cNtcv?usp=sharing
+
+### 📌 Dataset Details
+- Contains traffic images/videos  
+- Includes weather-related conditions (rain, fog, etc.)  
+- Used for training and testing anomaly detection models  
+
+### ⚠️ Note
+- Please download the dataset manually from the link above  
+- Place the dataset inside the `data/` folder before running the project  
