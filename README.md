@@ -53,3 +53,15 @@ to detect anomalies such as:
 - Matplotlib  
 
 ---
+
+## 📌 Output Note
+All the **outputs, visualizations, and results are included directly inside the `.ipynb` notebook file**.
+
+To view them:
+- Open the notebook in **Google Colab / Jupyter Notebook**
+- Run all cells (if needed)
+
+The notebook contains:
+- Model outputs  
+- Graphs and plots  
+- Intermediate processing results  
